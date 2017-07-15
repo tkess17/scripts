@@ -2,13 +2,13 @@
 
 Collection of scripts I use for personal use.
 
-## Getting Started
+# Getting Started
 
 Currently, there is only one script, but I will add more as I continue to create more.
 
 GoDaddyIPChange.sh - Checks the IP on ipecho.net, and compares it to the IP address GoDaddy has for a given record.
 
-### Prerequisites
+## Prerequisites
 
 GoDaddyIPChange.sh - cURL and jq
 
@@ -18,7 +18,7 @@ sudo apt-get install curl
 sudo apt-get install jq
 ```
 
-### Configuration
+## Configuration
 
 GoDaddyIPChange.sh - Add your domain, name of A record, GoDaddy API Key, and Godaddy API Secret. 
 
