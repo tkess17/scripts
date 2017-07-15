@@ -25,6 +25,7 @@ sudo apt-get install jq
 Copy the script to any location on your linux machine. I currently have mine setup to use cron to run the script every 5 minutes. Below is an example of how I set mine up. It also logs to a the file godaddylog.log
 
 ```
+crontab -e
 */5 * * * * /home/travis/Documents/godaddy.sh > /home/travis/Documents/godaddylog.log 2>&1
 ```
 
