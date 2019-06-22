@@ -6,7 +6,8 @@ Collection of scripts I use for personal use.
 
 Currently, there is only one script, but I will add more as I continue to create more.
 
-GoDaddyIPChange.sh - Checks the IP on ipecho.net, and compares it to the IP address GoDaddy has for a given record.
+* **GoDaddyIPChange.sh** - Checks the IP on ipecho.net, and compares it to the IP address GoDaddy has for a given record.
+* **github.sh** - Work in progress. Will eventually find commit messages with bad words and tweet them for the world to see.
 
 ## Prerequisites
 
